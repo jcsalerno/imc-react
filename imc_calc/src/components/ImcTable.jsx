@@ -1,5 +1,5 @@
-import React from "react";
 import Button from "./Button";
+import "./ImcTable.css";
 
 export default function ImcTable({ data }) {
   return (
